@@ -1,0 +1,2157 @@
+repo_name: bolufowobi/eShopOnContainers
+report_id: ec4a9807f3e89d92c273020cee3f735c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-21T07:34:27+00:00'
+requested_by: erjain
+provider: github
+branch: dev
+detected_tools_count: 153
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 4.7.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: glennc
+  last_updated_on: 2016-09-14 15:35:34.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:39:16.000000000 Z
+- name: Normalize.css
+  description: A modern alternative to CSS resets
+  website_url: https://necolas.github.io/normalize.css/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: IvanFarkas
+  last_updated_on: 2018-08-29 12:59:14.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-17 14:24:51.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: Dapper
+  description: A simple object mapper for .Net
+  website_url: https://stackexchange.github.io/Dapper/
+  version: 2.0.78
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/5847/default_377344b5aec46a959a5debae12cb81f81a64dce3.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: David Sanz
+  last_updated_on: 2020-12-16 12:43:12.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  detection_source: src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Entity Framework Core
+  description: Lightweight and cross-platform version of the popular Entity Framework
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: MediatR
+  description: In-process messaging with no dependencies
+  website_url: https://github.com/jbogard/MediatR
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/20925/default_6fd5a642fb778d0aeef31d8d6cf9b58b8f20da27.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.UnitTests/Basket.UnitTests.csproj
+  detection_source: src/Services/Basket/Basket.UnitTests/Basket.UnitTests.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-14 14:04:25.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  detection_source: src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2018-05-22 13:33:21.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  version: 0.1.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/deploy/k8s/helm/rabbitmq/Chart.yaml
+  detection_source: src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-22 15:24:18.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj
+  detection_source: src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Serverless AppSync
+  description: Easily and quickly deploy GraphQL APIs on AWS
+  website_url: https://github.com/serverless-components/aws-app-sync
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: GraphQL Tools
+  image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-01-13 13:14:59.000000000 Z
+- name: AutoFac
+  description: An Inversion of Control container
+  website_url: https://autofac.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/6953/default_17650e39faa714f82fcdb12b14af73c704a15d2f.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-22 15:24:18.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: Envoy
+  description: C++ front/service proxy
+  website_url: https://www.envoyproxy.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/8416/Tfk-FtVd_400x400.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: eiximenis
+  last_updated_on: 2019-09-10 17:49:50.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/.github/workflows/basket-api-deploy.yml
+  detection_source: ".github/workflows/basket-api-deploy.yml"
+  last_updated_by: Colin Dembovsky
+  last_updated_on: 2021-04-15 13:33:56.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 6.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: Kibana
+  description: Visualize your Elasticsearch data and navigate the Elastic Stack
+  website_url: https://www.elastic.co/kibana
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/deploy/elk/kibana/config/kibana.yml
+  detection_source: deploy/elk/kibana/config/kibana.yml
+  last_updated_by: jmanuelcorral
+  last_updated_on: 2019-03-19 14:57:47.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj
+  detection_source: src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2018-06-25 09:36:42.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: glennc
+  last_updated_on: 2016-09-14 15:35:34.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: Seq
+  description: Log search, analysis, and alerting server built for modern structured
+    log data
+  website_url: https://datalust.co/seq
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/4284/seq-nuget.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: glennc
+  last_updated_on: 2016-09-14 15:35:34.000000000 Z
+- name: Serilog
+  description: A portable and structured logging framework to record diagnostic logs
+  website_url: http://serilog.net/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/4283/5691010.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-17 14:24:51.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/eShopOnContainers-ServicesAndWebApps.sln
+  detection_source: src/eShopOnContainers-ServicesAndWebApps.sln
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2019-06-27 09:15:24.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.44.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Tarun Jain
+  last_updated_on: 2022-01-25 11:34:34.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/yarn.lock
+  detection_source: src/Web/WebSPA/Client/yarn.lock
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-15 08:57:28.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBus.Tests/EventBus.Tests.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBus.Tests/EventBus.Tests.csproj
+  last_updated_by: Eduard Tomas
+  last_updated_on: 2017-05-03 08:59:36.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: Erik Pique
+  last_updated_on: 2019-08-07 07:28:08.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/deploy/elk/elasticsearch/config/elasticsearch.yml
+  detection_source: deploy/elk/elasticsearch/config/elasticsearch.yml
+  last_updated_by: jmanuelcorral
+  last_updated_on: 2019-03-19 14:57:47.000000000 Z
+- name: JSON Web Token
+  description: A JSON-based open standard for creating access tokens
+  website_url: http://jwt.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/6417/jwt-icon.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: Eduard Tomàs
+  last_updated_on: 2018-01-26 16:09:36.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: Mongo
+  description: Heroku provides services and tools to build, run, and scale web applications.
+    Follow @herokustatus for platform updates. A @salesforce company.
+  website_url: http://wedesignapps.herokuapp.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/docker-compose.yml
+  detection_source: src/docker-compose.yml
+  last_updated_by: Unai Zorrilla Castro
+  last_updated_on: 2018-05-22 13:33:21.000000000 Z
+- name: OpenID Connect
+  description: An authorization framework
+  website_url: http://openid.net/connect/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/3620/openid-icon-250x250_400x400.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebMVC/WebMVC.csproj
+  detection_source: src/Web/WebMVC/WebMVC.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers
+  detection_source: Repo Metadata
+- name: Autofac.Extensions.DependencyInjection
+  description: Autofac implementation of the interfaces in Microsoft.Extensions.DependencyInjection.Abstractions
+  package_url: https://www.nuget.org/Autofac.Extensions.DependencyInjection
+  version: 7.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13019/default_2e1baa8748e6f549b126bd1ce8d11fcaa67ba4bb.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: BuildBundlerMinifier
+  description: Bundles and minifies CSS, JS and HTML files
+  package_url: https://www.nuget.org/BuildBundlerMinifier
+  version: 3.2.449
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14830/default_e240b2e3aa3fd870c5c421ddf534c760d2f79310.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebMVC/WebMVC.csproj
+  detection_source: src/Web/WebMVC/WebMVC.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-18 11:04:35.000000000 Z
+- name: FluentValidation.AspNetCore
+  description: AspNetCore integration for FluentValidation
+  package_url: https://www.nuget.org/FluentValidation.AspNetCore
+  version: 9.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13324/default_4d1c8e39751da3e5e8bf7305f3f45ac90df4be6f.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Google.Protobuf
+  description: C# runtime library for Protocol Buffers - Google's data interchange
+    format
+  package_url: https://www.nuget.org/Google.Protobuf
+  version: 3.14.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12977/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-17 14:24:51.000000000 Z
+  vulnerabilities:
+  - name: NULL Pointer Dereference in Protocol Buffers
+    cve_id: CVE-2021-22570
+    cve_url: https://github.com/advisories/GHSA-77rm-9x9h-xj3g
+    detected_date: Feb 11
+    severity: high
+    first_patched: 3.15.0
+- name: Grpc.Core
+  description: C# implementation of gRPC based on native gRPC C-core library
+  package_url: https://www.nuget.org/Grpc.Core
+  version: 2.34.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13162/default_8ec8443385d582f19f93b79f0dcf69f422e58967.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+  vulnerabilities:
+  - name: Connection confusion in gRPC
+    cve_id: CVE-2023-32731
+    cve_url: https://github.com/advisories/GHSA-cfgp-2977-2fmm
+    detected_date: Jul 14
+    severity: high
+    first_patched: 2.52.0
+  - name: gRPC Reachable Assertion issue
+    cve_id: CVE-2023-1428
+    cve_url: https://github.com/advisories/GHSA-6628-q6j9-w8vg
+    detected_date: Jul 14
+    severity: high
+    first_patched: 2.52.0
+  - name: gRPC connection termination issue
+    cve_id: CVE-2023-32732
+    cve_url: https://github.com/advisories/GHSA-9hxf-ppjv-w6rq
+    detected_date: Jul 14
+    severity: moderate
+    first_patched: 2.52.0
+- name: Grpc.Net.Client
+  description: ".NET client for gRPC"
+  package_url: https://www.nuget.org/Grpc.Net.Client
+  version: 2.34.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15548/default_9e6c5b16645c805765637f65779b2a8071a09c95.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Web.Bff.Shopping/aggregator/Web.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Web.Bff.Shopping/aggregator/Web.Shopping.HttpAggregator.csproj
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-01-13 13:45:29.000000000 Z
+  vulnerabilities:
+  - name: gRPC Reachable Assertion issue
+    cve_id: CVE-2023-1428
+    cve_url: https://github.com/advisories/GHSA-6628-q6j9-w8vg
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.52.0
+  - name: Connection confusion in gRPC
+    cve_id: CVE-2023-32731
+    cve_url: https://github.com/advisories/GHSA-cfgp-2977-2fmm
+    detected_date: Jul 6
+    severity: high
+    first_patched: 2.52.0
+  - name: gRPC connection termination issue
+    cve_id: CVE-2023-32732
+    cve_url: https://github.com/advisories/GHSA-9hxf-ppjv-w6rq
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 2.52.0
+- name: Grpc.Tools
+  description: GRPC and Protocol Buffer compiler for managed C# and native C++ projects
+  package_url: https://www.nuget.org/Grpc.Tools
+  version: 2.34.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13728/default_464fb9b438380c5ec98e481823a05b9599991662.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-17 14:24:51.000000000 Z
+- name: IdentityServer4
+  description: OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+  package_url: https://www.nuget.org/IdentityServer4
+  version: 3.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13183/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: IdentityServer4.AspNetIdentity
+  description: ASP.NET Core Identity Integration for IdentityServer4
+  package_url: https://www.nuget.org/IdentityServer4.AspNetIdentity
+  version: 3.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14133/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: IdentityServer4.EntityFramework
+  description: EntityFramework persistence layer for IdentityServer4
+  package_url: https://www.nuget.org/IdentityServer4.EntityFramework
+  version: 3.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14070/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: IdentityServer4.Storage
+  description: Storage interfaces and models for IdentityServer4
+  package_url: https://www.nuget.org/IdentityServer4.Storage
+  version: 3.1.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15366/default_337085ea0ff79706128ecf95b35a0c7a4f7dc939.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: MediatR.Extensions.Microsoft.DependencyInjection
+  description: MediatR extensions for ASP.NET Core
+  package_url: https://www.nuget.org/MediatR.Extensions.Microsoft.DependencyInjection
+  version: 9.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13395/default_de77a8370e47861dfbe30f06e25c22916ed609b5.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  detection_source: src/Services/Ordering/Ordering.API/Ordering.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.ApplicationInsights.AspNetCore
+  description: Application Insights for ASP.NET Core web applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.AspNetCore
+  version: 2.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13203/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.ApplicationInsights.DependencyCollector
+  description: Application Insights Dependency Collector for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.DependencyCollector
+  version: 2.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13741/default_464fb9b438380c5ec98e481823a05b9599991662.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNet.WebApi.Client
+  description: This package adds support for formatting and content negotiation to
+    System.Net.Http
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Client
+  version: 5.2.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12870/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebhookClient/WebhookClient.csproj
+  detection_source: src/Web/WebhookClient/WebhookClient.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.JwtBearer
+  description: ASP.NET Core middleware that enables an application to receive an OpenID
+    Connect bearer token
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.JwtBearer
+  version: 5.0.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12968/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.OpenIdConnect
+  description: ASP.NET Core middleware that enables an application to support the
+    OpenID Connect authentication workflow
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.OpenIdConnect
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13385/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebMVC/WebMVC.csproj
+  detection_source: src/Web/WebMVC/WebMVC.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.Authorization
+  description: ASP.NET Core authorization classes
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authorization
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13034/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.SignalrHub/Ordering.SignalrHub.csproj
+  detection_source: src/Services/Ordering/Ordering.SignalrHub/Ordering.SignalrHub.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+  description: ASP.NET Core middleware for Entity Framework Core error pages
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13743/default_4056691b3b7b6737ac5df5ff7e15081a39ed930f.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.Http.Abstractions
+  description: ASP.NET Core HTTP object model for HTTP requests and responses and
+    also common extension methods for registering middleware in an IApplicationBuilder
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Http.Abstractions
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12884/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj
+  detection_source: src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.Identity.EntityFrameworkCore
+  description: ASP.NET Core Identity provider that uses Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Identity.EntityFrameworkCore
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13053/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Identity/Identity.API/Identity.API.csproj
+  detection_source: src/Services/Identity/Identity.API/Identity.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.Mvc.NewtonsoftJson
+  description: ASP.NET Core MVC features that use Newtonsoft.Json
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.NewtonsoftJson
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13258/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.AspNetCore.SpaServices.Extensions
+  description: Helpers for building single-page applications on ASP.NET MVC Core
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.SpaServices.Extensions
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13851/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/WebSPA.csproj
+  detection_source: src/Web/WebSPA/WebSPA.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-17 11:12:17.000000000 Z
+- name: Microsoft.AspNetCore.TestHost
+  description: ASP.NET Core web server for writing and running tests
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.TestHost
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13268/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj
+  detection_source: src/Services/Basket/Basket.FunctionalTests/Basket.FunctionalTests.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.Build.Utilities.Core
+  description: This package contains the Microsoft.Build.Utilities assembly which
+    is used to implement custom MSBuild tasks
+  package_url: https://www.nuget.org/Microsoft.Build.Utilities.Core
+  version: 16.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13293/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebMVC/WebMVC.csproj
+  detection_source: src/Web/WebMVC/WebMVC.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.CSharp
+  description: Provides support for compilation and code generation, including dynamic,
+    using the C# language
+  package_url: https://www.nuget.org/Microsoft.CSharp
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12845/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-05-03 11:06:31.000000000 Z
+- name: Microsoft.EntityFrameworkCore
+  description: Entity Framework Core is a lightweight and extensible version of the
+    popular Entity Framework data access technology
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12852/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  detection_source: src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.EntityFrameworkCore.InMemory
+  description: In-memory database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.InMemory
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13150/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Catalog/Catalog.UnitTests/Catalog.UnitTests.csproj
+  detection_source: src/Services/Catalog/Catalog.UnitTests/Catalog.UnitTests.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Proxies
+  description: Lazy-loading proxies for EF Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Proxies
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13429/default_b5cc6dac756daf8a76f449b0db2d2933859829df.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Catalog/Catalog.API/Catalog.API.csproj
+  detection_source: src/Services/Catalog/Catalog.API/Catalog.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Relational
+  description: Shared Entity Framework Core components for relational database providers
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Relational
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12914/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  detection_source: src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  detection_source: src/BuildingBlocks/EventBus/IntegrationEventLogEF/IntegrationEventLogEF.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Tools
+  description: Entity Framework Core Tools for the NuGet Package Manager Console in
+    Visual Studio
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Catalog/Catalog.API/Catalog.API.csproj
+  detection_source: src/Services/Catalog/Catalog.API/Catalog.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.Extensions.Configuration.Binder
+  description: Functionality to bind an object to data in configuration providers
+    for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Binder
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12893/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  detection_source: src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-01-13 13:14:59.000000000 Z
+- name: Microsoft.Extensions.DependencyInjection.Abstractions
+  description: Abstractions for dependency injection
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12848/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj
+  detection_source: src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.Extensions.Diagnostics.HealthChecks
+  description: 'Components for performing health checks in .NET applications Commonly
+    Used Types: Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Microsoft.Extensions.Diagnosti...'
+  package_url: https://www.nuget.org/Microsoft.Extensions.Diagnostics.HealthChecks
+  version: 5.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13287/default_6134e5c981cbd06883a0ffc7dceb761ee17cfca4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+- name: Microsoft.Extensions.Hosting
+  description: ".NET Core hosting and startup infrastructures for applications"
+  package_url: https://www.nuget.org/Microsoft.Extensions.Hosting
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13013/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.BackgroundTasks/Ordering.BackgroundTasks.csproj
+  detection_source: src/Services/Ordering/Ordering.BackgroundTasks/Ordering.BackgroundTasks.csproj
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-01-13 13:45:29.000000000 Z
+- name: Microsoft.Extensions.Http
+  description: The HttpClient factory is a pattern for configuring and retrieving
+    named HttpClients in a composable way
+  package_url: https://www.nuget.org/Microsoft.Extensions.Http
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12940/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj
+  detection_source: src/BuildingBlocks/Devspaces.Support/Devspaces.Support.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.Extensions.Logging
+  description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-05-03 11:06:31.000000000 Z
+- name: Microsoft.Extensions.Logging.Abstractions
+  description: Logging abstractions for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.Infrastructure/Ordering.Infrastructure.csproj
+  detection_source: src/Services/Ordering/Ordering.Infrastructure/Ordering.Infrastructure.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Microsoft.NETCore.Platforms
+  description: Provides runtime information required to resolve target framework,
+    platform, and runtime specific implementations of .NETCore packages
+  package_url: https://www.nuget.org/Microsoft.NETCore.Platforms
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12907/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  detection_source: src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-01-13 13:14:59.000000000 Z
+- name: Microsoft.VisualStudio.Web.CodeGeneration.Design
+  description: Code Generation tool for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebhookClient/WebhookClient.csproj
+  detection_source: src/Web/WebhookClient/WebhookClient.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 13.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/WebSPA.csproj
+  detection_source: src/Web/WebSPA/WebSPA.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Polly
+  description: Polly is a library that allows developers to express resilience and
+    transient fault handling policies such as Retry
+  package_url: https://www.nuget.org/Polly
+  version: 7.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12935/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-22 15:24:18.000000000 Z
+- name: RabbitMQ.Client
+  description: The RabbitMQ .NET client is the official client library for C#
+  package_url: https://www.nuget.org/RabbitMQ.Client
+  version: 6.2.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12910/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBusRabbitMQ/EventBusRabbitMQ.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-22 15:24:18.000000000 Z
+- name: Serilog.AspNetCore
+  description: Serilog support for ASP.NET Core logging
+  package_url: https://www.nuget.org/Serilog.AspNetCore
+  version: 3.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13194/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+- name: Serilog.Enrichers.Environment
+  description: Enrich Serilog log events with properties from System.Environment
+  package_url: https://www.nuget.org/Serilog.Enrichers.Environment
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13963/default_d8aec9d428d816fc62cb3009ee432a55abe53d01.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Serilog.Settings.Configuration
+  description: Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Serilog.Settings.Configuration
+  version: 3.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13175/default_b4059c3863f54504d1a911991b5fe93c60e9e43e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-17 11:12:17.000000000 Z
+- name: Serilog.Sinks.Console
+  description: A Serilog sink that writes log events to the console/terminal
+  package_url: https://www.nuget.org/Serilog.Sinks.Console
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13071/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: Borja García Rodríguez
+  last_updated_on: 2020-12-17 14:24:51.000000000 Z
+- name: Serilog.Sinks.Seq
+  description: Serilog sink that writes to the Seq log server over HTTP/HTTPS
+  package_url: https://www.nuget.org/Serilog.Sinks.Seq
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13462/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 5.6.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  detection_source: src/ApiGateways/Mobile.Bff.Shopping/aggregator/Mobile.Shopping.HttpAggregator.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-26 10:54:03.000000000 Z
+- name: System.Data.SqlClient
+  description: Provides the data provider for SQL Server
+  package_url: https://www.nuget.org/System.Data.SqlClient
+  version: 4.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12863/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  detection_source: src/BuildingBlocks/WebHostCustomization/WebHost.Customization/WebHost.Customization.csproj
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-01-13 13:14:59.000000000 Z
+  vulnerabilities:
+  - name: Microsoft.Data.SqlClient and System.Data.SqlClient vulnerable to SQL Data
+      Provider Security Feature Bypass
+    cve_id: CVE-2024-0056
+    cve_url: https://github.com/advisories/GHSA-98g6-xh36-x2p7
+    detected_date: Jan 17
+    severity: high
+    first_patched: 4.8.6
+  - name: ".NET Information Disclosure Vulnerability"
+    cve_id: CVE-2022-41064
+    cve_url: https://github.com/advisories/GHSA-8g2p-5pqh-5jmc
+    detected_date: Nov 9
+    severity: moderate
+    first_patched: 4.8.5
+- name: System.IdentityModel.Tokens.Jwt
+  description: Includes types that provide support for creating
+  package_url: https://www.nuget.org/System.IdentityModel.Tokens.Jwt
+  version: 6.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12920/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Basket.API.csproj
+  detection_source: src/Services/Basket/Basket.API/Basket.API.csproj
+  last_updated_by: Sumit Ghosh
+  last_updated_on: 2021-11-15 13:32:23.000000000 Z
+  vulnerabilities:
+  - name: Microsoft Identity Denial of service vulnerability
+    cve_id: CVE-2024-21319
+    cve_url: https://github.com/advisories/GHSA-8g9c-28fc-mcx2
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 6.34.0
+  - name: 'Microsoft Security Advisory CVE-2024-21319: .NET Denial of Service Vulnerability'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-59j7-ghrg-fj52
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 6.34.0
+- name: System.Reflection.TypeExtensions
+  description: Provides extensions methods for System.Type that are designed to be
+    source-compatible with older framework reflection-based APIs
+  package_url: https://www.nuget.org/System.Reflection.TypeExtensions
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12876/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj
+  detection_source: src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj
+  last_updated_by: David Sanz
+  last_updated_on: 2020-12-16 12:43:12.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.3
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/BuildingBlocks/EventBus/EventBus.Tests/EventBus.Tests.csproj
+  detection_source: src/BuildingBlocks/EventBus/EventBus.Tests/EventBus.Tests.csproj
+  last_updated_by: Sander Obdeijn
+  last_updated_on: 2021-05-31 09:16:44.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 0.1102.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Tarun Jain
+  last_updated_on: 2022-01-25 11:34:34.000000000 Z
+- name: "@angular-devkit/schematics"
+  description: Angular Schematics - Library
+  package_url: https://www.npmjs.com/@angular-devkit/schematics
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16789/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Tarun Jain
+  last_updated_on: 2022-01-25 11:34:34.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Tarun Jain
+  last_updated_on: 2022-01-25 11:34:34.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@angular/platform-server"
+  description: Angular - library for using Angular in Node.js
+  package_url: https://www.npmjs.com/@angular/platform-server
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16296/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Tarun Jain
+  last_updated_on: 2022-01-25 11:34:34.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 11.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@ng-bootstrap/ng-bootstrap"
+  description: Angular powered Bootstrap
+  package_url: https://www.npmjs.com/@ng-bootstrap/ng-bootstrap
+  version: 8.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17486/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: "@types/core-js"
+  description: TypeScript definitions for core-js
+  package_url: https://www.npmjs.com/@types/core-js
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16420/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@types/hammerjs"
+  description: TypeScript definitions for Hammer.js
+  package_url: https://www.npmjs.com/@types/hammerjs
+  version: 2.0.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17205/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.20.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  version: 3.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: acorn
+  description: ECMAScript parser
+  package_url: https://www.npmjs.com/acorn
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16344/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2018-09-28 12:22:26.000000000 Z
+- name: font-awesome
+  description: The iconic font and CSS framework
+  package_url: https://www.npmjs.com/font-awesome
+  version: 4.7.0
+  license: OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16160/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: IvanFarkas
+  last_updated_on: 2018-08-29 12:59:14.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: isomorphic-fetch
+  description: Isomorphic WHATWG Fetch API, for Node &amp; Browserify
+  package_url: https://www.npmjs.com/isomorphic-fetch
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16185/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Carlos Cañizares Estévez
+  last_updated_on: 2016-11-17 09:34:10.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 5.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: karma-cli
+  description: The Karma command line interface
+  package_url: https://www.npmjs.com/karma-cli
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16104/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: merge
+  description: Merge multiple objects into one, optionally creating a new cloned object
+  package_url: https://www.npmjs.com/merge
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16534/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:27:41.000000000 Z
+- name: npm-watch
+  description: Run scripts from package.json when files change
+  package_url: https://www.npmjs.com/npm-watch
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17007/default_a62acf6476c0d9afc7932e4ebd89b72082379c8c.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: jmanuelcorral
+  last_updated_on: 2019-03-21 14:24:51.000000000 Z
+- name: popper.js
+  description: A kickass library to manage your poppers
+  package_url: https://www.npmjs.com/popper.js
+  version: 1.16.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16357/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 18:28:29.000000000 Z
+- name: rxjs-compat
+  description: '&lt;img src="doc/asset/Rx_Logo_S.png" alt="RxJS Logo" width="86" height="86"&gt;
+    RxJS: Reactive Extensions For JavaScript =================='
+  package_url: https://www.npmjs.com/rxjs-compat
+  version: 6.6.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16746/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: sass-lint
+  description: All Node Sass linter!
+  package_url: https://www.npmjs.com/sass-lint
+  version: 1.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17332/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:39:16.000000000 Z
+- name: ts-helpers
+  description: Typescript helpers for compiling typescript while specifying `--noEmitHelpers`
+    within your `tsconfig.json`
+  package_url: https://www.npmjs.com/ts-helpers
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16605/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: IvanFarkas
+  last_updated_on: 2018-08-29 12:59:14.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 17:06:24.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:39:16.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.19.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-25 09:10:59.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Ramón Tomás
+  last_updated_on: 2018-09-28 12:22:26.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Tarun Jain
+  last_updated_on: 2022-01-25 11:34:34.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/bolufowobi/eShopOnContainers/blob/dev/src/Web/WebSPA/Client/package-lock.json
+  detection_source: src/Web/WebSPA/Client/package.json
+  last_updated_by: Miguel Veloso
+  last_updated_on: 2021-06-17 22:39:16.000000000 Z
